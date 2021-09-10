@@ -33,3 +33,10 @@ Fins, also known as casting flash or burrs, is any unwanted and excess material 
  <p align = "center">
  <img width="300" height="320" src=".\PS.png">
  </p>
+ 
+ 
+ 
+ * This repository contains the notebook which performs the task of classifying defective pieces from the non defective pieces. The dataset was taken from [Kaggle](https://www.kaggle.com/ravirajsinh45/real-life-industrial-dataset-of-casting-product).
+
+ * The trained model can be found [here]() 
+ 
